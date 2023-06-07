@@ -1,0 +1,9 @@
+.traço{
+    display: none;
+}
+.quebra__linha{
+    display: block;
+}
+.conteudo__corpo__imagem img{
+    width: 80%;
+}
