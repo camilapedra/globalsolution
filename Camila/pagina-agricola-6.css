@@ -1,0 +1,6 @@
+.conteudo__corpo__texto__texto{
+    display: flex;
+    text-align: center;
+    font-size: 2rem;
+    font-family: var( --conteudo-font);
+}
