@@ -1,0 +1,13 @@
+.rodape__conteudo__texto{
+    margin-top: 1em;
+    display: flex;
+    gap: 5em;
+    font-family: var(--titulo-font);
+    font-size: 1.1rem;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-bottom: 2px solid var(--color-secundary);
+    border-right: 2px solid var(--color-secundary);
+    border-radius: 10px;
+    padding: 0.5em;
+}
