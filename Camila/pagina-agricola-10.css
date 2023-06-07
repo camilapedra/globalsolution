@@ -1,0 +1,7 @@
+.rodape__conteudo{
+    padding: 2em;
+    display: flex;
+    gap: 2em;
+    color: white;
+    align-items:center;
+}
