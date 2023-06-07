@@ -1,0 +1,10 @@
+@media screen and (max-width: 425px){
+    .logo{
+        width: 257px;
+    }
+    .menu{
+        width: 100%;
+        justify-content: flex-start;
+        gap: 1em;
+        align-items: center;
+    }}
