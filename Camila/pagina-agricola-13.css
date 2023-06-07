@@ -1,0 +1,7 @@
+/* do 13 ao 23 é style responsivo da pagina agricola */
+@media screen and (max-width: 768px) {
+    .menu{
+        justify-content: flex-start;
+        gap: 5em;
+        align-items: center;
+    }}
